@@ -5,4 +5,4 @@ Web accessability will ensure people with a variety of diasabilities are able to
 Other changes were done to improve the logical structure of HTML and CSS. 
 CSS was consolidated and organized to reflect the HTML semantic structure.
 CSS was properly commented.
-![Screenshot of Webpage]()
+
